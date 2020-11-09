@@ -1,4 +1,8 @@
-### Languages and Tools:
+#I'm Simon aka GoastcraftHD
+<br />
+## I Currently study game development in Paderborn and in my free time I like to player some games with friends
+
+### My Languages and Tools:
 
 <img align="left" alt="C-Sharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
