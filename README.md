@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+Languages: 
 <!--
 **GoastcraftHD/GoastcraftHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
