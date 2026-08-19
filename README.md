@@ -22,7 +22,6 @@
 ### Engines / Frameworks <br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Software <br>
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
@@ -39,5 +38,5 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=GoastcraftHD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoastcraftHD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-extended.vercel.app/api?username=GoastcraftHD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=GoastcraftHD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
